@@ -1,11 +1,3 @@
-# 好きなもの
-- 音楽、特にロック
-- アニメ
-- 漫画
-- ゲーム
-- 分割キーボード
-  - 7splus, Keyball, etc
-
 # 最近使ってるプログラミング言語・技術
 ここ3年くらいでちゃんと読み書きしてるやつ
 
@@ -15,6 +7,9 @@
 - Dart / Flutter
 - JavaScript / Vue.js
 - C# / Unity
+
+# 勤務状況
+- 関西でフルタイムで勤務しています
 
 # Special Thanks
 Icon: [@kurottari](https://twitter.com/kurottari)
