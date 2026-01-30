@@ -26,5 +26,10 @@
 - 関西でフルタイムでオフィス勤務しています
 - 現在転職は検討していません
 
+# 最近作ったもの
+- [vocemagica](https://vocemagica.pages.dev/)
+  - Nuxt.js x Supabase
+  - private repositoryです
+
 # Special Thanks
 Icon: [@kurottari](https://twitter.com/kurottari)
